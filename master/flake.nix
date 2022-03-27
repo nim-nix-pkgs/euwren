@@ -11,6 +11,7 @@
   inputs.src-euwren-master.ref   = "refs/heads/master";
   inputs.src-euwren-master.owner = "liquid600pgm";
   inputs.src-euwren-master.repo  = "euwren";
+  inputs.src-euwren-master.dir   = "";
   inputs.src-euwren-master.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";

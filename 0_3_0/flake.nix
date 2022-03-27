@@ -11,6 +11,7 @@
   inputs.src-euwren-0_3_0.ref   = "refs/tags/0.3.0";
   inputs.src-euwren-0_3_0.owner = "liquid600pgm";
   inputs.src-euwren-0_3_0.repo  = "euwren";
+  inputs.src-euwren-0_3_0.dir   = "";
   inputs.src-euwren-0_3_0.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";
