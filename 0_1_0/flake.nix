@@ -11,7 +11,6 @@
   inputs.src-euwren-0_1_0.ref   = "refs/tags/0.1.0";
   inputs.src-euwren-0_1_0.owner = "liquid600pgm";
   inputs.src-euwren-0_1_0.repo  = "euwren";
-  inputs.src-euwren-0_1_0.dir   = "";
   inputs.src-euwren-0_1_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
