@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/liquid600pgm/euwren",
   "refs": [
-    "fatal: unable to access 'https://github.com/liquid600pgm/euwren/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/liquid600pgm/euwren/': Couldn't connect to server",
     ""
   ],
   "heads": []
