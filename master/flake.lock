@@ -64,11 +64,11 @@
       },
       "locked": {
         "dir": "v0_6_13",
-        "lastModified": 1658019553,
-        "narHash": "sha256-uWBbqJH4zflEGPCe/KgzXivoC9sRx8LrUl9F0aoJjc4=",
+        "lastModified": 1658033400,
+        "narHash": "sha256-lFq3iPrUexVbkwY2w8bTJyPkGABiYBH0thUzqFZGAzk=",
         "owner": "nim-nix-pkgs",
         "repo": "nimterop",
-        "rev": "5560cbfb5635e6a0029d393d99d36b6af7749379",
+        "rev": "cd50c38f725f16f8973091d2749108e192af6d07",
         "type": "github"
       },
       "original": {
