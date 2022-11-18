@@ -213,11 +213,11 @@
       },
       "locked": {
         "dir": "v0_6_13",
-        "lastModified": 1668750735,
-        "narHash": "sha256-BsjSdyxGf/NX5i+kXgRCUrh1v8j0Pjl45WU2r2WhGBU=",
+        "lastModified": 1668756223,
+        "narHash": "sha256-kk0uw585F++AS+OvbdWHWkT4bT4Q2s0AVXKkOEO8RvY=",
         "owner": "nim-nix-pkgs",
         "repo": "nimterop",
-        "rev": "1bf708c2617fe58e894cd5cbc123abbb6e83d187",
+        "rev": "e0011422c605d6adc884265244c1be65101ecf58",
         "type": "github"
       },
       "original": {
